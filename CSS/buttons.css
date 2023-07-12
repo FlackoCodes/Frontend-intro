@@ -56,3 +56,72 @@
         transition: opacity 0.15s;
 
     }
+
+
+
+    
+ 
+ p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0%;
+
+}
+
+.video-title{
+    font-size: 30px;
+   
+    margin-bottom: 5px;
+    width: 300px;
+}
+
+.video-stats{
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+   /* text-align: center; */
+}
+
+.content-owner{
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+}
+
+.video-description{
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    width: 280px;
+    margin-bottom: 100px;
+
+}
+
+.apple-ad{
+    font-size: 14px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+a{
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+.video-thumbnail{
+    /* height: 300px; */
+    width: 300px;
+    object-fit: cover;
+}
+
+.search-box{
+    text-align: center;
+    border-radius: 2px;
+
+}  
+
