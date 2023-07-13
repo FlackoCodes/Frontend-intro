@@ -187,6 +187,11 @@ p{
     height: 24px;
 }
 
+.Flacko-profile{
+    height: 24px;
+    border-radius: 12px;
+}
+
 .sidebar{
     position: fixed;
     left: 0;
